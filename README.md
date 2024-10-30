@@ -60,11 +60,6 @@ Ensure you have the following installed on your machine:
     MONGO_URL=your_mongodb_url
     ```
 
-    For `socket`:
-    ```plaintext
-    SOCKET_PORT=your_socket_server_port
-    ```
-
 4. **Run the application**:
 
     Start the backend API server:
