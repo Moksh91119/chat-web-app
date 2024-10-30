@@ -28,7 +28,7 @@ Ensure you have the following installed on your machine:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/chat-webapp.git
+    git clone https://github.com/Moksh91119/chat-web-app.git
     ```
 
 2. **Install dependencies** for each directory:
@@ -57,8 +57,7 @@ Ensure you have the following installed on your machine:
 
     For `api`:
     ```plaintext
-    MONGODB_URI=your_mongodb_uri
-    JWT_SECRET=your_jwt_secret
+    MONGO_URL=your_mongodb_url
     ```
 
     For `socket`:
