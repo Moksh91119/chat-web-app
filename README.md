@@ -53,7 +53,7 @@ Ensure you have the following installed on your machine:
 
 3. **Set up environment variables**:
 
-    Create a `.env` file in the `api` and `socket` directories with the following variables:
+    Create a `.env` file in the `api` directory with the following variables:
 
     For `api`:
     ```plaintext
